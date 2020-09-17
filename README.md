@@ -22,7 +22,7 @@ The total outstanding value of US mortgages loans was $10.5 trillion by the end 
    * <strong>5.credit_card_balance.csv</strong>: Monthly balance snapshots of previous credit cards that the applicant has with Home Credit.
    * <strong>6.installments_payments.csv</strong>: Repayment history for the previously disbursed credits in Home Credit related to the loans in our sample.
    * <strong>7.previous_application.csv</strong>: All previous applications for Home Credit loans of clients who have loans in our sample.
-* <strong>[ Notebooks ]:
+* <strong>Notebooks</strong>:
    * <strong>[1.Logistic Regression Baseline and Simple EDA ](https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/1.%20Logistic%20Regression%20BaseLine.ipynb)</strong>
    * <strong>[2.Random Forest, More EDA and Feature Engineering](https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/1.%20Logistic%20Regression%20BaseLine.ipynb)</strong>
    * <strong>[3.LightGBM](https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/1.%20Logistic%20Regression%20BaseLine.ipynb)</strong>
