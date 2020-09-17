@@ -52,3 +52,13 @@ Below shows the confusion matrix on out-of-sample prediction.
 <p align="center">
   <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lr_base_cm.png" width=600>
 </p>
+
+### Correlation Analysis
+By examing the correlation between features and target, we can get a basic idea on which features may be more important in making predition. However, correlation does not mean causation and we should also examine correlations between features to minimize multicollinearity. Another useful to assess the ability of features in distinguishing target is by using kernel density plot. Below are the kde plots for two features which have top correlation with the target.
+<p align="center">
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/kde_ext_source_3.png" width=600>
+</p>
+<p align="center">
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/kde_day_birth.png" width=600>
+</p>
+
