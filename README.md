@@ -8,18 +8,28 @@ The total outstanding value of US mortgages loans was $10.5 trillion by the end 
 <summary>Show/Hide</summary>
 <br>
 
-1. [ File Descriptions ](##File_Description)
-2. [ Technologies Used ](##Technologies_Used)    
-3. [ Structure ](##Structure)
-4. [ Executive Summary ](##Executive_Summary)
+1. [ File Descriptions ](#File_Description)
+2. [ Technologies Used ](#Technologies_Used)    
+3. [ Structure ](#Structure)
+4. [ Executive Summary ](#Executive_Summary)
 </details>
 
-##File_Description
-a
+## File_Description
+* <strong>[ Data ](https://www.kaggle.com/c/home-credit-default-risk/data)</strong>: Home Credit's Mortgage Loan Dataset
+    * <strong>1.application.csv</strong>: This is application_train.csv from kaggle, containing over 300K application data and 120+ features
+    * <strong>2.bureau.csv</strong>: Applicant's previous credits record
+    * <strong>3.bureau_balance.csv</strong>: Monthly balances of previous credits in Credit Bureau
+    * <strong>4.POS_CASH_balance.csv</strong>: Monthly balance snapshots of previous POS (point of sales) and cash loans that the applicant had with Home Credit 
+    * <strong>5.credit_card_balance.csv</strong>: Monthly balance snapshots of previous credit cards that the applicant has with Home Credit.
+    * <strong>6.installments_payments.csv</strong>: Repayment history for the previously disbursed credits in Home Credit related to the loans in our sample.
+    * <strong>7.previous_application.csv</strong>: All previous applications for Home Credit loans of clients who have loans in our sample.
 
-##Technologies_Used
-Pandas
-Numpy
-Scikit-Learn
+## Technologies_Used
+* <strong>Python</strong>
+* <strong>Pandas</strong>
+* <strong>Numpy</strong>
+* <strong>Matplotlib</strong>
+* <strong>Seaborn</strong>
+* <strong>Scikit-Learn</strong>
 
 ## Executive_Summary
