@@ -44,5 +44,5 @@ As this is mortgage loans, we should expect this dataset to be highly unbalance 
 ### Logistic Regression Baseline
 After dealing with obvious anomalies, imputing missing value and one-hot-encoding categorical varibles, we build a simple Logistic Regression to serve as a baseline for this project. Below is a set of plot demonstrating the model in terms of learning convergence, scalability and performance.
 <p align="center">
-  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lr_base.png" width=600>
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lr_base.png" width=1200>
 </p>
