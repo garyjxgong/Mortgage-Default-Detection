@@ -36,7 +36,13 @@ The total outstanding value of US mortgages loans was $10.5 trillion by the end 
 * <strong>Scikit-Learn</strong>
 
 ## Executive_Summary
+### Unbalanced Data
 As this is mortgage loans, we should expect this dataset to be highly unbalance in our target label <strong>(1: Default, 0: Repaid)</strong>. Below is a count plot to visualize target composition created by seaborn.
 <p align="center">
   <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/unbalanced_label.png" width=600>
+</p>
+### Logistic Regression Baseline
+After dealing with obvious anomalies, imputing missing value and one-hot-encoding categorical varibles, we build a simple Logistic Regression to serve as a baseline for this project. Below is a set of plot demonstrating the model in terms of learning convergence, scalability and performance.
+<p align="center">
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lr_base.png" width=600>
 </p>
