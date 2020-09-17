@@ -14,7 +14,7 @@ The total outstanding value of US mortgages loans was $10.5 trillion by the end 
 </details>
 
 ## File_Description
-* <strong>[ Data ](https://www.kaggle.com/c/home-credit-default-risk/data)</strong>: Home Credit's Mortgage Loan Dataset
+* <strong>[ Data ](https://www.kaggle.com/c/home-credit-default-risk/data)</strong>: Home Credit's Mortgage Loan Dataset (2.6GB)
    * <strong>1.application.csv</strong>: This is application_train.csv from kaggle, containing over 300K application data and 120+ features
    * <strong>2.bureau.csv</strong>: Applicant's previous credits record
    * <strong>3.bureau_balance.csv</strong>: Monthly balances of previous credits in Credit Bureau
@@ -36,3 +36,7 @@ The total outstanding value of US mortgages loans was $10.5 trillion by the end 
 * <strong>Scikit-Learn</strong>
 
 ## Executive_Summary
+<h5 align="center">Count plot show label imbalancing</h5>
+<p align="center">
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/unbalanced_label.png" width=600>
+</p>
