@@ -1,7 +1,7 @@
 # Morgage-Default-Detection
 
 ## Introduction
-The total outstanding value of US mortgages loans was $10.5 trillion by the end 2019 and it is still growing. Therefore, mortgage risk is one of the most important types of risk we should be carefully monitering. The default on mortgage was also the direct cause to the 2008 financial crisis. This project aims to investigate features that are crucial in assessing default probability of loan applicants and build classification models to successfully detect high risk applications.
+The total outstanding value of US mortgages loans was $10.5 trillion by the end 2019 and it is still growing. Therefore, mortgage risk is one of the most important types of risk we should be carefully monitering. The default on mortgage was also the direct cause to the 2008 financial crisis. This project aims to investigate features that are crucial in assessing the default probability of loan applicants and build classification models to successfully detect high-risk applications.
 
 ## Table of Contents
 <details open>
