@@ -25,6 +25,7 @@ The total outstanding value of US mortgages loans was $10.5 trillion by the end 
 * <strong>[ Notebooks ](https://www.kaggle.com/c/home-credit-default-risk/data)</strong>:
    * <strong>[1.Logistic Regression Baseline and Simple EDA ](https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/1.%20Logistic%20Regression%20BaseLine.ipynb)</strong>
 * <strong>[ Models ](https://github.com/garyjxgong/Morgage-Default-Detection/tree/master/Models)</strong>: Trained models for this project stored by joblib.
+* <strong>[ Images ](https://github.com/garyjxgong/Morgage-Default-Detection/tree/master/Images)</strong>: Images used in summary.
 
 ## Technologies_Used
 * <strong>Python</strong>
