@@ -62,3 +62,21 @@ By examing the correlation between features and target, we can get a basic idea 
   <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/kde_day_birth.png" width=600>
 </p>
 
+### Feature Engineering
+
+#### Domain Knowledge
+Based on my research on morgage risk, I have inclued 6 new features.
+* credit to income ratio: the higher this ratio, the heavier the applicants in debt
+* annuity to income ratio: repaid amount compare to income
+* credit term: amount that the applicants repaid in percentage
+* price to credit: whether applicant is borrowing for goods exceed their repay ability
+* employment length to age ratio: higher value means applicants started to work earlier
+* average household income: total income divided by number of family number
+Again I use kde plot to examine features.
+<p align="center">
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/kde_credit_term.png" width=600>
+</p>
+<p align="center">
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/kde_credit_income_percent.png" width=600>
+</p>
+
