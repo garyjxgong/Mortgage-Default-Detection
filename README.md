@@ -52,7 +52,8 @@ After dealing with obvious anomalies, imputing missing value and one-hot-encodin
 <p align="center">
   <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lr_base.png" width=1200>
 </p>
-Below shows the confusion matrix on out-of-sample prediction.
+
+#### Confusion Matrix of Out-of-Sample Prediction
 <p align="center">
   <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lr_base_cm.png" width=600>
 </p>
@@ -84,4 +85,14 @@ Again I use kde plot to examine features.
   <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/kde_credit_income_percent.png" width=600>
 </p>
 
-### Random Forest and Parameters Tuning
+### Random Forest
+<p align="center">
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/rf.png" width=600>
+</p>
+
+#### Feature Importances from Random Forest Model
+<p align="center">
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/rf_fi.png" width=600>
+</p>
+
+#### Confusion Matrix of Out-of-Sample Prediction
