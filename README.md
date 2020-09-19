@@ -103,8 +103,11 @@ Again I use kde plot to examine features.
 
 ### LightGBM
 The lightGBM model is fitted on dataset including all 7 tables.
+<br>
 Training Size is <strong>246008 x 696</strong>.
+<br>
 Training Size is <strong>61503 x 696</strong>.
+<br>
 <p align="center">
-  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lgb.png" width=450>
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lgb.png" width=600>
 </p>
