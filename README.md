@@ -99,3 +99,12 @@ Again I use kde plot to examine features.
 <p align="center">
   <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/rf_cm.png" width=450>
 </p>
+
+
+### LightGBM
+The lightGBM model is fitted on dataset including all 7 tables.
+Training Size is <strong>246008 x 696</strong>.
+Training Size is <strong>61503 x 696</strong>.
+<p align="center">
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lgb.png" width=450>
+</p>
