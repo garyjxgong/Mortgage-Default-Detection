@@ -55,7 +55,7 @@ After dealing with obvious anomalies, imputing missing value and one-hot-encodin
 
 #### Confusion Matrix of Out-of-Sample Prediction
 <p align="center">
-  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lr_base_cm.png" width=600>
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lr_base_cm.png" width=450>
 </p>
 
 ### Correlation Analysis
@@ -87,7 +87,7 @@ Again I use kde plot to examine features.
 
 ### Random Forest
 <p align="center">
-  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/rf.png" width=600>
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/rf.png" width=1200>
 </p>
 
 #### Feature Importances from Random Forest Model
@@ -96,3 +96,6 @@ Again I use kde plot to examine features.
 </p>
 
 #### Confusion Matrix of Out-of-Sample Prediction
+<p align="center">
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/rf_cm.png" width=450>
+</p>
