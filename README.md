@@ -119,6 +119,9 @@ Training Size is <strong>61503 x 696</strong>.
 
 #### Confusion Matrix of Out-of-Sample Prediction
 <p align="center">
-  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lgb_cm.png" width=600>
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lgb_cm.png" width=450>
 </p>
 
+### XGBoost
+
+### Conclusion
