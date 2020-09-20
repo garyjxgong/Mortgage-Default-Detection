@@ -111,3 +111,14 @@ Training Size is <strong>61503 x 696</strong>.
 <p align="center">
   <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lgb.png" width=600>
 </p>
+
+#### Feature Importance from LightGBM Model
+<p align="center">
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lgb_fi.png" width=600>
+</p>
+
+#### Confusion Matrix of Out-of-Sample Prediction
+<p align="center">
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/lgb_cm.png" width=600>
+</p>
+
