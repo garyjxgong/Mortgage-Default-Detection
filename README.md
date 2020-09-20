@@ -128,4 +128,13 @@ Training Size is <strong>61503 x 696</strong>.
 
 ### XGBoost
 
+
+#### Feature Importance from LightGBM Model
+<p align="center">
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/xgb_fi.png" width=600>
+</p>
+
+#### Confusion Matrix of Out-of-Sample Prediction
+
+
 ### Conclusion
