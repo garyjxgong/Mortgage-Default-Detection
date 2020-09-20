@@ -24,8 +24,8 @@ The total outstanding value of US mortgages loans was $10.5 trillion by the end 
    * <strong>7.previous_application.csv</strong>: All previous applications for Home Credit loans of clients who have loans in our sample.
 * <strong>Notebooks</strong>:
    * <strong>[1.Logistic Regression Baseline and Simple EDA ](https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/1.%20Logistic%20Regression%20BaseLine.ipynb)</strong>
-   * <strong>[2.Random Forest, More EDA and Feature Engineering](https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/1.%20Logistic%20Regression%20BaseLine.ipynb)</strong>
-   * <strong>[3.LightGBM](https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/1.%20Logistic%20Regression%20BaseLine.ipynb)</strong>
+   * <strong>[2.Random Forest, More EDA and Feature Engineering](https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/2.%20Random%20Forest%20and%20Further%20EDA.ipynb)</strong>
+   * <strong>[3.LightGBM](https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/3.%20Light%20GBM.ipynb)</strong>
    * <strong>[4.XGBoost](https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/1.%20Logistic%20Regression%20BaseLine.ipynb)</strong>
    * <strong>[5.Model Stacking](https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/1.%20Logistic%20Regression%20BaseLine.ipynb)</strong>
 * <strong>[ Models ](https://github.com/garyjxgong/Morgage-Default-Detection/tree/master/Models)</strong>: Trained models for this project stored by joblib.
