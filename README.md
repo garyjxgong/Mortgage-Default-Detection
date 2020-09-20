@@ -38,6 +38,9 @@ The total outstanding value of US mortgages loans was $10.5 trillion by the end 
 * <strong>Matplotlib</strong>
 * <strong>Seaborn</strong>
 * <strong>Scikit-Learn</strong>
+* <strong>LightGBM</strong>
+* <strong>XGBoost-Learn</strong>
+* <strong>Scikit-Learn</strong>
 
 ## Executive_Summary
 
