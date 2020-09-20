@@ -128,7 +128,7 @@ Training Size is <strong>61503 x 696</strong>.
 
 ### XGBoost
 <p align="center">
-  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/xgb.png" width=450>
+  <img src="https://github.com/garyjxgong/Morgage-Default-Detection/blob/master/Images/xgb.png" width=600>
 </p>
 
 #### Feature Importance from XGBoost Model
