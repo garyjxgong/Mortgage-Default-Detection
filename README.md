@@ -137,4 +137,4 @@ Training Size is <strong>61503 x 696</strong>.
 </p>
 
 ### Conclusion
-LightGBM stands out from all other ensemble classifiers.
+Feature engineering is diffinitely the most powerful tool in tackling complex data science problems. We can see that the ROC score improved dramaticly after adding features into the models. Among all ensemble classifiers we have tried, LightGBM seems to stands out with a 0.78 ROC.
